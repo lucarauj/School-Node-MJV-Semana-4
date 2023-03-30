@@ -1,4 +1,4 @@
-[![NPM](https://github.com/lucarauj/School-Node-MJV-Semana-4/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/School-Node-MJV-Semana-4/blob/main/LICENSE)
 
 <h1 align="center">MJV School Node.js </h1>
 <h2 align="center">Semana 4 </h2>
@@ -8,6 +8,7 @@
 <br> 
 
 ## EXERCÍCIO 1 👉 [Clique aqui🖱](./Exercício%201)
+## REPOSITÓRIO DA SEMANA 3 👉 [Clique aqui 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-3)
 
 <br>
 

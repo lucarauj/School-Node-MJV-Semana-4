@@ -23,7 +23,7 @@
 
 - Não cadastrar Produto com Id duplicado;
 - Proibição de atualizar o Id do produto;
-- Tratamento de erro no método getById transferido para Service;
+- Tratamento de erro no método getById transferido para products.service.ts;
 
 <br>
 

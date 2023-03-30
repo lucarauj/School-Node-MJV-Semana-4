@@ -12,7 +12,7 @@
 
 <br>
 
-## ⚙ Modificações no projeto 👉 [Link do Projeto 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-3/tree/main/Aula%203/Exerc%C3%ADcio%202)
+## ⚙ Modificações no projeto 👉 [Link do Projeto base 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-3/tree/main/Aula%203/Exerc%C3%ADcio%202)
 
 - Add Folder models ⏩ product.model.ts
 - Add Folder services ⏩ products.service.ts
